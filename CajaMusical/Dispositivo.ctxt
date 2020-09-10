@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dispositivo
+comment1.params=cancion1\ cancion2\ cancion3
+comment1.target=Dispositivo(Cancion,\ Cancion,\ Cancion)
+comment2.params=cancion
+comment2.target=boolean\ reproducirCancion(Cancion)
+comment3.params=cancion
+comment3.target=boolean\ detenerCancion(Cancion)
+comment4.params=cancion
+comment4.target=boolean\ cambiarCancion(Cancion)
+comment5.params=
+comment5.target=java.lang.String[]\ mostrarCanciones()
+numComments=6
