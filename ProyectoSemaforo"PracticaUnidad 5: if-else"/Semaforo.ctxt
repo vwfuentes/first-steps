@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Semaforo
+comment1.params=numero
+comment1.target=java.lang.String\ cambiarDeColor(int)
+numComments=2
