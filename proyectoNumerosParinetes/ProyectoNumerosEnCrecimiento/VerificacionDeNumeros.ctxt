@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=VerificacionDeNumeros
+comment1.params=numero
+comment1.target=java.lang.String\ respuestaDeNumeroPosteado(int)
+comment2.params=numero
+comment2.target=void\ prueba(int)
+comment3.params=numero
+comment3.target=int[]\ separarEnDigitos(int)
+comment4.params=digitos
+comment4.target=void\ imprimirDigitos(int[])
+numComments=5

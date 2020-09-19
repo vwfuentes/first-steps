@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=NumerosParientes
+comment1.params=numero1\ numero2
+comment1.target=java.lang.String\ verificarNumero(int,\ int)
+numComments=2

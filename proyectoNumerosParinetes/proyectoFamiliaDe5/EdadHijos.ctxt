@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EdadHijos
+comment1.params=nombre
+comment1.target=int\ edadHijos(java.lang.String)
+comment2.params=nombre
+comment2.target=int\ getEdad(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNombreHijoMayor()
+numComments=4
